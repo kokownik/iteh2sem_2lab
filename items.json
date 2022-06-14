@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "62752abd0da1739cbc338703"
+  },
+  "name": "Bona 713",
+  "price": 100,
+  "quantity": 10,
+  "quality": 5,
+  "Vendor": "Bona",
+  "Category": "Кроссовки"
+},{
+  "_id": {
+    "$oid": "62752d5f0da1739cbc338705"
+  },
+  "name": "Nike 123",
+  "price": 20,
+  "quantity": 3,
+  "quality": 4,
+  "Vendor": "Nike",
+  "Category": "Кроссовки"
+},{
+  "_id": {
+    "$oid": "62752dd60da1739cbc338707"
+  },
+  "name": "Nike Oliser",
+  "price": 160,
+  "quantity": 15,
+  "quality": 3,
+  "Vendor": "Nike",
+  "Category": "Кроссовки"
+},{
+  "_id": {
+    "$oid": "62752e0e0da1739cbc338709"
+  },
+  "name": "Nike peffogor",
+  "price": 50,
+  "quantity": 0,
+  "quality": 4,
+  "Vendor": "Nike",
+  "Category": "Кроссовки"
+},{
+  "_id": {
+    "$oid": "62752e720da1739cbc33870a"
+  },
+  "name": "Aladin Nike",
+  "price": 200,
+  "quantity": 10,
+  "quality": 5,
+  "Vendor": "Nike",
+  "Category": "Кроссовки"
+},{
+  "_id": {
+    "$oid": "62752eaf0da1739cbc33870b"
+  },
+  "name": "Значок \"Магическая битва\" ",
+  "price": 60,
+  "quantity": 110,
+  "quality": 2,
+  "Vendor": "Reebok",
+  "Category": "Кроссовки"
+},{
+  "_id": {
+    "$oid": "62752ee20da1739cbc33870c"
+  },
+  "name": "Reebok ",
+  "price": 150,
+  "quantity": 0,
+  "quality": 5,
+  "Vendor": "Reebok",
+  "Category": "Кроссовки"
+},{
+  "_id": {
+    "$oid": "62752f2f0da1739cbc33870e"
+  },
+  "name": "Reebok 123",
+  "price": 60,
+  "quantity": 10,
+  "quality": 5,
+  "Vendor": "Reebok",
+  "Category": "Кроссовки"
+}]
